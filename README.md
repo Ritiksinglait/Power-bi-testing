@@ -1,12 +1,17 @@
+# Code
+
+## Vanilla
+
+``python
+print("hello world!")
+``
+
+## Flavored V1
+
 <div style="background-color: rgb(50, 50, 50);">
 
+``python
+print("Yo!")
 ``
-{
-    "startDate": "YYYY-MM-DD",
-    "endDate": "YYYY-MM-DD",
-    "businessFacilities": ["Facility1", "Facility2"]
-}
-``
+
 </div>
-
-
